@@ -1,0 +1,35 @@
+<!-- 
+    AJAX (Asincrono JavaScript and XML)
+    esto trabaja con XMLHttpREQUEST
+
+    Nos permite trabajar informacion en segundo plano, sin la necesidad de cargar la pagina todo el tiempo. Se comunica con la BD
+
+    Para trabajar con AJAX necesitamos 3 archivos.
+    1) html 
+    2) js
+    3) php
+
+    XMLHttpRequest con este objeto vamos a hacer la precarga 
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Datos de usuario</h1>
+    <button onclick="dataUsuario()">Cargar datos</button>
+
+    <hr>
+    <br>
+    <div id="userData">
+      
+    </div>
+
+    <!-- indicamos que cargue el archivo de js -->
+    <script src="main.js"></script>
+</body>
+</html>
