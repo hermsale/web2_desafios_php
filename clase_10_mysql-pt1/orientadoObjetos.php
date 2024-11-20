@@ -50,6 +50,8 @@ class Database{
     }
 
 
+    echo "<br>";
+    echo "Uso de prepare y bind_param<br>";
     // posible mejora uso de prepare y blind_param - para dar mayor seguridad y uso dinamico de filtros
 
     // prepare se utiliza para evitar posibles inyecciones de codigo sql malicioso 

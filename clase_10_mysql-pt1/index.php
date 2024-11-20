@@ -3,7 +3,11 @@
     // ACCEDER A ARCHIVOS ESPECIFICOS DESDE LOCALHOST, TENIENDO UN INDEX.PHP EN LA CARPETA.
     // Nos posicionamos sobre localhost/nombre_carpeta/nombre_archivo.php
     // ejemplo: http://localhost/programacionWeb/clase_10_mysql-pt1/conexion_mysql.php
-    
+    // para acceder al ejemplo procedural ingrese 
+    // http://localhost/ProgramacionWebII/clase_10_mysql-pt1/conexion_mysql.php
+    // Orientado Objetos
+    // http://localhost/ProgramacionWebII/clase_10_mysql-pt1/orientadoObjetos.php
+
     // tenemos tres formas de trabajar con mysql en php. 
     // 1) Modo procedural. utilizando: mysqli_connect(), mysqli_query(), mysqli_fetch_assoc(), etc.
 
@@ -36,4 +40,5 @@
     // • mysqli_close(): Cierra la conexión al servidor de base de datos.
 
 
+    
 ?>
