@@ -7,6 +7,8 @@
     // http://localhost/ProgramacionWebII/clase_10_mysql-pt1/conexion_mysql.php
     // Orientado Objetos
     // http://localhost/ProgramacionWebII/clase_10_mysql-pt1/orientadoObjetos.php
+    // PDO
+    // http://localhost/ProgramacionWebII/clase_10_mysql-pt1/PDO.php
 
     // tenemos tres formas de trabajar con mysql en php. 
     // 1) Modo procedural. utilizando: mysqli_connect(), mysqli_query(), mysqli_fetch_assoc(), etc.
