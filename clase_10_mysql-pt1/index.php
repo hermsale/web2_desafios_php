@@ -2,6 +2,7 @@
     
     // ACCEDER A ARCHIVOS ESPECIFICOS DESDE LOCALHOST, TENIENDO UN INDEX.PHP EN LA CARPETA.
     // para agregar datos acceder a formulario.php
+    
     // Nos posicionamos sobre localhost/nombre_carpeta/nombre_archivo.php
     // ejemplo: http://localhost/programacionWeb/clase_10_mysql-pt1/conexion_mysql.php
     // para acceder al ejemplo procedural ingrese 
